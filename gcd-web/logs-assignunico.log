@@ -1,0 +1,70 @@
+19-05-2017 16:00:14,570 INFO  [RestInputNumberServiceImpl] - push-STARTS
+19-05-2017 16:00:14,574 DEBUG [RestInputNumberServiceImpl] - num1 = 20 & num2 = 16
+19-05-2017 16:00:14,578 INFO  [RestInputNumberServiceImpl] - push-ENDS
+19-05-2017 16:00:14,579 INFO  [RestInputNumberServiceImpl] - Num1 = 20 ; Num2 = 16
+19-05-2017 16:00:14,585 INFO  [RestInputNumberServiceImpl] - list-STARTS
+19-05-2017 16:00:14,590 INFO  [RestInputNumberServiceImpl] - inputNumbers: [10, 20, 30, 40, 50, 60, 70, 80, 90, 100]
+19-05-2017 16:00:14,593 INFO  [RestInputNumberServiceImpl] - list-ENDS
+19-05-2017 16:00:14,628 INFO  [SoapGcdServiceImpl] - gcd-STARTS
+19-05-2017 16:00:14,630 DEBUG [SoapGcdServiceImpl] - GCD for num1:16 num2:20
+19-05-2017 16:00:14,633 INFO  [SoapGcdServiceImpl] - gcd-STARTS
+19-05-2017 19:28:44,522 INFO  [RestInputNumberServiceImpl] - push-STARTS
+19-05-2017 19:28:44,545 DEBUG [RestInputNumberServiceImpl] - num1 = 20 & num2 = 16
+19-05-2017 19:28:44,548 INFO  [RestInputNumberServiceImpl] - push-ENDS
+19-05-2017 19:28:44,549 INFO  [RestInputNumberServiceImpl] - Num1 = 20 ; Num2 = 16
+19-05-2017 19:28:44,553 INFO  [RestInputNumberServiceImpl] - list-STARTS
+19-05-2017 19:28:44,556 INFO  [RestInputNumberServiceImpl] - inputNumbers: [10, 20, 30, 40, 50, 60, 70, 80, 90, 100]
+19-05-2017 19:28:44,557 INFO  [RestInputNumberServiceImpl] - list-ENDS
+19-05-2017 19:28:44,601 INFO  [SoapGcdServiceImpl] - gcd-STARTS
+19-05-2017 19:28:44,602 DEBUG [SoapGcdServiceImpl] - GCD for num1:16 num2:20
+19-05-2017 19:28:44,604 INFO  [SoapGcdServiceImpl] - gcd-STARTS
+19-05-2017 20:50:18,334 INFO  [RestInputNumberServiceImpl] - push-STARTS
+19-05-2017 20:50:18,344 DEBUG [RestInputNumberServiceImpl] - num1 = 20 & num2 = 16
+19-05-2017 20:50:18,373 INFO  [RestInputNumberServiceImpl] - push-ENDS
+19-05-2017 20:50:18,373 INFO  [RestInputNumberServiceImpl] - Num1 = 20 ; Num2 = 16
+19-05-2017 20:50:18,377 INFO  [RestInputNumberServiceImpl] - list-STARTS
+19-05-2017 20:50:18,379 INFO  [RestInputNumberServiceImpl] - inputNumbers: [10, 20, 30, 40, 50, 60, 70, 80, 90, 100]
+19-05-2017 20:50:18,380 INFO  [RestInputNumberServiceImpl] - list-ENDS
+19-05-2017 20:50:18,414 INFO  [SoapGcdServiceImpl] - gcd-STARTS
+19-05-2017 20:50:18,416 DEBUG [SoapGcdServiceImpl] - GCD for num1:16 num2:20
+19-05-2017 20:50:18,418 INFO  [SoapGcdServiceImpl] - gcd-STARTS
+19-05-2017 21:18:14,941 INFO  [RestInputNumberServiceImpl] - push-STARTS
+19-05-2017 21:18:14,946 DEBUG [RestInputNumberServiceImpl] - num1 = 20 & num2 = 16
+19-05-2017 21:18:14,947 INFO  [RestInputNumberServiceImpl] - push-ENDS
+19-05-2017 21:18:14,947 INFO  [RestInputNumberServiceImpl] - Num1 = 20 ; Num2 = 16
+19-05-2017 21:18:14,947 INFO  [RestInputNumberServiceImpl] - list-STARTS
+19-05-2017 21:18:14,963 INFO  [RestInputNumberServiceImpl] - inputNumbers: [10, 20, 30, 40, 50, 60, 70, 80, 90, 100]
+19-05-2017 21:18:14,963 INFO  [RestInputNumberServiceImpl] - list-ENDS
+19-05-2017 21:18:14,994 INFO  [SoapGcdServiceImpl] - gcd-STARTS
+19-05-2017 21:18:14,994 DEBUG [SoapGcdServiceImpl] - GCD for num1:16 num2:20
+19-05-2017 21:18:14,994 INFO  [SoapGcdServiceImpl] - gcd-STARTS
+20-05-2017 00:05:58,391 INFO  [RestInputNumberServiceImpl] - push-STARTS
+20-05-2017 00:05:58,393 DEBUG [RestInputNumberServiceImpl] - num1 = 20 & num2 = 16
+20-05-2017 00:05:58,399 INFO  [RestInputNumberServiceImpl] - push-ENDS
+20-05-2017 00:05:58,400 INFO  [RestInputNumberServiceImpl] - Num1 = 20 ; Num2 = 16
+20-05-2017 00:05:58,413 INFO  [RestInputNumberServiceImpl] - list-STARTS
+20-05-2017 00:05:58,417 INFO  [RestInputNumberServiceImpl] - inputNumbers: [10, 20, 30, 40, 50, 60, 70, 80, 90, 100]
+20-05-2017 00:05:58,418 INFO  [RestInputNumberServiceImpl] - list-ENDS
+20-05-2017 00:05:58,458 INFO  [SoapGcdServiceImpl] - gcd-STARTS
+20-05-2017 00:05:58,459 DEBUG [SoapGcdServiceImpl] - GCD for num1:16 num2:20
+20-05-2017 00:05:58,460 INFO  [SoapGcdServiceImpl] - gcd-STARTS
+10-12-2017 19:50:11,968 INFO  [RestInputNumberServiceImpl] - push-STARTS
+10-12-2017 19:50:11,968 DEBUG [RestInputNumberServiceImpl] - num1 = 20 & num2 = 16
+10-12-2017 19:50:11,984 INFO  [RestInputNumberServiceImpl] - push-ENDS
+10-12-2017 19:50:11,984 INFO  [RestInputNumberServiceImpl] - Num1 = 20 ; Num2 = 16
+10-12-2017 19:50:11,984 INFO  [RestInputNumberServiceImpl] - list-STARTS
+10-12-2017 19:50:11,984 INFO  [RestInputNumberServiceImpl] - inputNumbers: [10, 20, 30, 40, 50, 60, 70, 80, 90, 100]
+10-12-2017 19:50:11,984 INFO  [RestInputNumberServiceImpl] - list-ENDS
+10-12-2017 19:50:12,047 INFO  [SoapGcdServiceImpl] - gcd-STARTS
+10-12-2017 19:50:12,047 DEBUG [SoapGcdServiceImpl] - GCD for num1:16 num2:20
+10-12-2017 19:50:12,047 INFO  [SoapGcdServiceImpl] - gcd-STARTS
+10-12-2017 22:40:03,747 INFO  [RestInputNumberServiceImpl] - push-STARTS
+10-12-2017 22:40:03,755 DEBUG [RestInputNumberServiceImpl] - num1 = 20 & num2 = 16
+10-12-2017 22:40:03,755 INFO  [RestInputNumberServiceImpl] - push-ENDS
+10-12-2017 22:40:03,755 INFO  [RestInputNumberServiceImpl] - Num1 = 20 ; Num2 = 16
+10-12-2017 22:40:03,755 INFO  [RestInputNumberServiceImpl] - list-STARTS
+10-12-2017 22:40:03,755 INFO  [RestInputNumberServiceImpl] - inputNumbers: [10, 20, 30, 40, 50, 60, 70, 80, 90, 100]
+10-12-2017 22:40:03,755 INFO  [RestInputNumberServiceImpl] - list-ENDS
+10-12-2017 22:40:03,802 INFO  [SoapGcdServiceImpl] - gcd-STARTS
+10-12-2017 22:40:03,802 DEBUG [SoapGcdServiceImpl] - GCD for num1:16 num2:20
+10-12-2017 22:40:03,802 INFO  [SoapGcdServiceImpl] - gcd-STARTS

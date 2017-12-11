@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns = "http://www.springframework.org/schema/beans"
+   xmlns:xsi = "http://www.w3.org/2001/XMLSchema-instance"
+   xmlns:context = "http://www.springframework.org/schema/context"
+   xsi:schemaLocation = "http://www.springframework.org/schema/beans
+   http://www.springframework.org/schema/beans/spring-beans-3.0.xsd
+   http://www.springframework.org/schema/context
+   http://www.springframework.org/schema/context/spring-context-3.0.xsd">
+   
+    <bean id="webServiceContext" scope="singleton" class="org.mockito.Mockito" factory-method="mock">
+		<constructor-arg value="javax.xml.ws.WebServiceContext" />
+	</bean>
+   	<bean id="messageContext" scope="singleton" class="org.mockito.Mockito" factory-method="mock">
+		<constructor-arg value="javax.xml.ws.handler.MessageContext" />
+	</bean>
+	
+	<bean id="jmsConnectionFactory" scope="singleton"  class="org.mockito.Mockito" factory-method="mock">
+		<constructor-arg value="javax.jms.ConnectionFactory" />
+	</bean>
+	
+	<bean id="queue" scope="singleton"  class="org.mockito.Mockito" factory-method="mock">
+		<constructor-arg value="javax.jms.Queue" />
+	</bean>
+	
+	<bean id="jmsQueue" scope="singleton"  class="org.mockito.Mockito" factory-method="mock">
+		<constructor-arg value="org.unico.assign.gcd.jms.JMSQueue" />
+	</bean>
+	
+	<bean id="jmsMessageProcessor" class="org.mockito.Mockito" factory-method="mock">
+		<constructor-arg value="org.unico.assign.gcd.jms.JMSMessageProcessor" />
+	</bean>
+
+	<bean id="gcdDao" class="org.mockito.Mockito" factory-method="mock">
+		<constructor-arg value="org.unico.assign.gcd.dao.GcdDao" />
+	</bean>
+	
+	<bean id="userDao" class="org.mockito.Mockito" factory-method="mock">
+		<constructor-arg value="org.unico.assign.gcd.dao.UserDao" />
+	</bean>
+
+	<bean id="inputNumberDao" class="org.mockito.Mockito" factory-method="mock">
+		<constructor-arg value="org.unico.assign.gcd.dao.InputNumberDao" />
+	</bean>
+
+	<bean id="restInputNumberService" class="org.unico.assign.gcd.rest.RestInputNumberServiceImpl" />
+	
+	<bean id="soapGcdService" class="org.unico.assign.gcd.soap.SoapGcdServiceImpl" />
+
+</beans>
